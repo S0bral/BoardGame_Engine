@@ -1,0 +1,14 @@
+{
+  "nomeJogo": "Connect Four",
+  "tabuleiro": {
+    "linhas": 6,
+    "colunas": 7
+  },
+  "regraPosicionamento": "GRAVIDADE",
+  "regraVitoria": "ALINHAMENTO",
+  "quantidadeVitoria": 4,
+  "jogadores": [
+    { "simbolo": "X" },
+    { "simbolo": "O" }
+  ]
+}

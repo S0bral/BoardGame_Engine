@@ -1,0 +1,14 @@
+{
+  "nomeJogo": "Jogo da Velha",
+  "tabuleiro": {
+    "linhas": 3,
+    "colunas": 3
+  },
+  "regraPosicionamento": "LIVRE",
+  "regraVitoria": "ALINHAMENTO",
+  "quantidadeVitoria": 3,
+  "jogadores": [
+    { "simbolo": "X" },
+    { "simbolo": "O" }
+  ]
+}
